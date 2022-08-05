@@ -5,6 +5,7 @@
 
 library(tidyverse)
 library(broom)
+library(gghighlight)
 #pg 14:
 
 #displacement vs hwy faceted by both drivetrain & cyl
